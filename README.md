@@ -109,3 +109,11 @@ Also comfortable with SQL beyond the basics (views, procedures, triggers), UML a
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3566,100:0B1428&height=110&section=footer" width="100%"/>
+
+### 📈 GitHub activity
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoStainski&bg_color=0B1428&color=C9D6EE&line=F0B429&point=FFFFFF&area=true&area_color=F0B429&hide_border=true&custom_title=Contributions"/>
+
+<img src="https://streak-stats.demolab.com?user=BrunoStainski&background=0B1428&ring=F0B429&fire=F0B429&currStreakNum=FFFFFF&currStreakLabel=F0B429&sideNums=FFFFFF&sideLabels=C9D6EE&dates=8FA3C7&stroke=1F3566&hide_border=true"/>
+</div>
