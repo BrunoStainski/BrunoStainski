@@ -103,13 +103,6 @@ OOP with design patterns (Observer, state machines) and data structures in C lik
 
 Also comfortable with SQL beyond the basics (views, procedures, triggers), UML and ER modeling, and agile workflows with Trello and Jira.
 
-### 📈 GitHub activity
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunoStainski&show_icons=true&hide_border=true&bg_color=0B1428&title_color=F0B429&icon_color=F0B429&text_color=C9D6EE"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoStainski&layout=compact&hide_border=true&bg_color=0B1428&title_color=F0B429&text_color=C9D6EE"/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoStainski/BrunoStainski/output/github-snake-dark.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/BrunoStainski/BrunoStainski/output/github-snake.svg"/>
 </picture>
