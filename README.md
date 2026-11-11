@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D62828&center=true&vCenter=true&width=520&lines=Machine+learning+with+PyTorch;Back-end+with+Python+%26+Flask;ADS+student+%40+UniCesumar;AI+bootcamp+%40+TCS" />
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
+<img src="https://media.giphy.com/media/YRThiAEEYVNtC5acLO/giphy.gif" width="100%">
 
 </div>
 
