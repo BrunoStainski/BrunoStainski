@@ -25,7 +25,7 @@ Software Development student at UniCesumar and part of the TCS AI bootcamp, base
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
+<img src="https://media.giphy.com/media/YRThiAEEYVNtC5acLO/giphy.gif" width="100%">
 
 </td>
 </tr>
