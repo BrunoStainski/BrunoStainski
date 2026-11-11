@@ -1,25 +1,44 @@
-### Hi, I'm Bruno 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,50:13315C,100:1D4E89&height=220&section=header&text=Bruno%20Stainski&fontSize=52&fontColor=F2B705&animation=fadeIn&fontAlignY=36&desc=Software%20dev%20in%20training&descSize=18&descAlignY=56&descColor=FFFFFF" width="100%"/>
 
-Software Development student at UniCesumar and part of the TCS AI bootcamp, based in Londrina, Brazil. I'm currently diving into machine learning while building back-end projects with Python.
+<div align="center">
 
-#### What I'm working on
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D62828&center=true&vCenter=true&width=520&lines=Machine+learning+with+PyTorch;Back-end+with+Python+%26+Flask;ADS+student+%40+UniCesumar;AI+bootcamp+%40+TCS" />
 
-- **Iamp** – an app that estimates the energy consumption and cost of home appliances using ML, built on Inmetro and ANEEL public data ([ProjetoTCS-2026](https://github.com/BrunoStainski/ProjetoTCS-2026))
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### About me
+
+Software Development student at UniCesumar and part of the TCS AI bootcamp, based in Londrina, Brazil. Currently diving into machine learning while building back-end projects with Python.
+
+### What I'm working on
+
+- **Iamp** – estimates energy consumption and cost of home appliances using ML, built on Inmetro and ANEEL public data
 - **Image classification** – CNNs in PyTorch, from scratch and with transfer learning (MobileNetV3, ResNet)
-- **Facial expression recognition** – training models on the FANE dataset
+- **Facial expression recognition** – models trained on the FANE dataset
 
-#### Tech
+</td>
+<td width="45%" align="center" valign="middle">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
 
-#### Learning next
+</td>
+</tr>
+</table>
 
-Deploying ML models, better data pipelines, and mobile development.
+<div align="center">
+
+### Tech
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,flask,mysql,html,css,c,git,vscode&theme=dark" />
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4E89,50:13315C,100:0B2545&height=120&section=footer" width="100%"/>
